@@ -1,8 +1,8 @@
 class Swiftsheetgen < Formula
   desc "Generate type-safe Swift code from a Google Sheet"
   homepage "https://github.com/jorgemrht/SwiftSheetGen"
-  url "https://github.com/jorgemrht/SwiftSheetGen/releases/download/v.0.0.6-beta/swiftsheetgen-.0.0.6-beta.tar.gz"
-  sha256 "0ee90d109bba1320c0949b213f621163f37aa67c0aaae72f4e77a511c65ef395"
+  url "https://github.com/jorgemrht/SwiftSheetGen/releases/download/v.0.0.7-beta/swiftsheetgen-.0.0.7-beta.tar.gz"
+  sha256 "c64120652ad3da2c0c739c4657e4526a77774395c0e0cb5a1ef3b0abc2e790f1"
   license "MIT"
 
   def install
